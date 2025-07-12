@@ -33,8 +33,10 @@ sag-py-execution-time-decorator @ git+https://github.com/SamhammerAG/sag_py_exec
 scanpy==1.10.3
 scikit-image==0.19.3
 scikit-learn==1.1.1
+SCIMAP==2.3.5
 scipy==1.10.1
 seaborn==0.13.2
+shapely==2.0.7
 shiny==0.10.2
 shinyswatch==0.6.1
 shinywidgets==0.3.2
